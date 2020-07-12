@@ -1,0 +1,7 @@
+title: This should be my awesome title
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
